@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tx" type="HTML" />
+      <mapping pattern="theme-snappy,less" type="Less" />
+      <mapping pattern="header-tags.less" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
