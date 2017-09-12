@@ -14,4 +14,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="breakpoints" value="@media @bs-xs {&#10;        &#10;      }&#10;&#10;      @media @bs-sm {&#10;        &#10;      }&#10;&#10;      @media @bs-md {&#10;        &#10;      }&#10;&#10;      @media @bs-lg {&#10;        &#10;      }&#10;&#10;      @media @bs-xl {&#10;        &#10;      }" description="Empty set of responsive breakpoints" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
