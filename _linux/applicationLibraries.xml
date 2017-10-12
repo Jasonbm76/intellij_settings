@@ -372,13 +372,13 @@
     <library name="sub" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_sub.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_sub.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
