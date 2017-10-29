@@ -18,12 +18,14 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_harvesthq.github.io_chosen_chosen.jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_harvesthq.github.io_chosen_chosen.jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.chosen_public_chosen.jquery.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -31,11 +33,13 @@
     <library name="console" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_util_console.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_util_console.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_util_console.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_util_console.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_util_console.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_util_console.js" />
       </CLASSES>
@@ -45,11 +49,13 @@
     <library name="country-state-form" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_ui_country-state-form.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_ui_country-state-form.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_ui_country-state-form.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_ui_country-state-form.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_ui_country-state-form.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_ui_country-state-form.js" />
       </CLASSES>
@@ -59,11 +65,13 @@
     <library name="creditcard" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_creditcard.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_creditcard.js" />
       </CLASSES>
@@ -73,11 +81,13 @@
     <library name="dropzone" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_dropzone_dropzone.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_dropzone_dropzone.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_dropzone_dropzone.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_dropzone_dropzone.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_dropzone_dropzone.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_dropzone_dropzone.js" />
       </CLASSES>
@@ -89,11 +99,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_email.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_email.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_email.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_email.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_email.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_email.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -103,11 +115,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_hgCommon.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_hgCommon.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_hgCommon.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_hgCommon.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_hgCommon.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_hgCommon.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -116,11 +130,13 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_hgDomains.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_hgDomains.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_hgDomains.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_hgDomains.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_hgDomains.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_hgDomains.js" />
       </CLASSES>
       <JAVADOC />
@@ -143,11 +159,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.qtip2_imagesloaded.pkgd.min.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_imagesloaded.pkgd.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_imagesloaded.pkgd.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.qtip2_imagesloaded.pkgd.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_imagesloaded.pkgd.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_imagesloaded.pkgd.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -158,11 +176,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.0_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.0_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
@@ -203,11 +223,13 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.cookie_jquery.cookie.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.cookie_jquery.cookie.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.cookie_jquery.cookie.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.cookie_jquery.cookie.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.cookie_jquery.cookie.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.cookie_jquery.cookie.js" />
       </CLASSES>
       <JAVADOC />
@@ -216,11 +238,13 @@
     <library name="jquery.dataTables" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.dataTables_jquery.dataTables.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.dataTables_jquery.dataTables.min.js" />
       </CLASSES>
@@ -232,11 +256,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.pin_jquery.pin.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.pin_jquery.pin.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.pin_jquery.pin.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.pin_jquery.pin.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.pin_jquery.pin.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.pin_jquery.pin.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -246,11 +272,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.qtip2_jquery.qtip.min.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_jquery.qtip.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_jquery.qtip.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.qtip2_jquery.qtip.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_jquery.qtip.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.qtip2_jquery.qtip.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -288,11 +316,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_ui_modernize.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_ui_modernize.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_ui_modernize.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_ui_modernize.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_ui_modernize.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_ui_modernize.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -301,11 +331,13 @@
       <properties>
         <option name="frameworkName" value="Modernizr" />
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_modernizr_modernizr.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_modernizr_modernizr.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_modernizr_modernizr.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_modernizr_modernizr.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_modernizr_modernizr.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_modernizr_modernizr.js" />
       </CLASSES>
@@ -318,11 +350,13 @@
     <library name="password" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_password.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_password.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_password.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_password.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_password.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_password.js" />
       </CLASSES>
@@ -334,11 +368,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_google.libphonenumber_phoneFormat.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_google.libphonenumber_phoneFormat.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -358,11 +394,13 @@
     <library name="stringProto" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_lang_stringProto.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_stringProto.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_stringProto.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_lang_stringProto.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_stringProto.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_stringProto.js" />
       </CLASSES>
@@ -373,11 +411,13 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_sub.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_lang_sub.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_lang_sub.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_lang_sub.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_lang_sub.js" />
       </CLASSES>
       <JAVADOC />
@@ -388,11 +428,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_util_util.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_util_util.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_util_util.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_util_util.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_util_util.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_util_util.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -400,11 +442,13 @@
     <library name="validate" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_validate.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_validate.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_validate.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_validate.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_validate.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_validate.js" />
       </CLASSES>
@@ -414,11 +458,13 @@
     <library name="vat" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_vat.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_vat.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_vat.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_vat.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_vat.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_vat.js" />
       </CLASSES>
