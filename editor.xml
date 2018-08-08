@@ -25,7 +25,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
