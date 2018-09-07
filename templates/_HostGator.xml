@@ -24,4 +24,5 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="new_label_input_group" value="&lt;div class=&quot;col-xs-12 d-table pt-5&quot;&gt;&#10;    &lt;label class=&quot;main-label d-table-cell&quot; for=&quot;&quot;&gt;&lt;/label&gt;&#10;&#10;    &lt;div class=&quot;d-table-cell&quot;&gt;&#10;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="Short template block used to create a left column label and a right column input or other type of data which works responsively" toReformat="false" toShortenFQNames="true" />
 </templateSet>
