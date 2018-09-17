@@ -29,4 +29,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="plugin_eval" value="// Protect against plugin not being loaded causing console errors&#10;if (typeof $.fn.tooltip === 'function') {&#10;&#10;}" description="Puts an eval wrapper around a plugin call" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
