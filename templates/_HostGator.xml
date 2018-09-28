@@ -35,4 +35,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="new_jk_env_if" value="{%- if jekyll.environment == &quot;production&quot; %}&#10;  &#10;{%- else %}&#10;  &#10;{%- endif %}" description="Add new Jekyll environment condition variable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
