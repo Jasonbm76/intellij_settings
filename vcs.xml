@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Jasonbm76/gatorboard.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.endurance.com/scm/~jmurphy/innojam-mdga.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repositories" />
