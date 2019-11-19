@@ -5,6 +5,7 @@
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping ext="config" type="JSON" />
       <mapping pattern="theme-snappy,less" type="Less" />
+      <mapping pattern="domain_purchase.tx" type="PLAIN_TEXT" />
       <mapping pattern="header-tags.less" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
