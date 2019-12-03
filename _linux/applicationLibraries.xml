@@ -1,13 +1,65 @@
 <application>
   <component name="libraryTable">
+    <library name="483b47e0ca" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_483b47e0ca.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_483b47e0ca.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="696cbc4f13" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_696cbc4f13.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_kit.fontawesome.com_696cbc4f13.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bootstrap-select" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-select_1.13.11_js_bootstrap-select.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-select_1.13.8_js_bootstrap-select.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-select_1.13.11_js_bootstrap-select.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-select_1.13.8_js_bootstrap-select.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bootstrap2-toggle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-toggle_2.2.2_js_bootstrap2-toggle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-toggle_2.2.2_js_bootstrap2-toggle.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -74,6 +126,54 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_HGJS_validate_creditcard.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_HGJS_validate_creditcard.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="dataTables.bootstrap4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_datatables_1.10.19_js_dataTables.bootstrap4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_datatables_1.10.19_js_dataTables.bootstrap4.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="dataTables.rowReorder" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_rowreorder_1.2.5_js_dataTables.rowReorder.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_rowreorder_1.2.5_js_dataTables.rowReorder.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="dataTables.select" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_select_1.3.0_js_dataTables.select.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_select_1.3.0_js_dataTables.select.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="datetime-moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_plug-ins_1.10.19_sorting_datetime-moment.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_plug-ins_1.10.19_sorting_datetime-moment.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -154,6 +254,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="icheck" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iCheck_1.0.2_icheck.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_iCheck_1.0.2_icheck.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="imagesloaded.pkgd" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -177,12 +289,14 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.0_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.4.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.0_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_2.2.4_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.4.1_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
@@ -236,12 +350,14 @@
     <library name="jquery.dataTables" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_datatables_1.10.19_js_jquery.dataTables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.dataTables_jquery.dataTables.min.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_datatables_1.10.19_js_jquery.dataTables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_jqPlugins_jquery.dataTables_jquery.dataTables.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_jqPlugins_jquery.dataTables_jquery.dataTables.js" />
@@ -281,6 +397,20 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="knockout" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="3.5.0" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout_3.5.0_knockout-min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout_3.5.0_knockout-min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Knockout-2.2.1" type="javaScript">
       <properties>
         <option name="frameworkName" value="Knockout" />
@@ -290,11 +420,51 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="knockout.mapping" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="2.4.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout.mapping_2.4.1_knockout.mapping.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout.mapping_2.4.1_knockout.mapping.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="knockout.validation" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="2.0.3" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout-validation_2.0.3_knockout.validation.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_knockout-validation_2.0.3_knockout.validation.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="knockout.validation-DefinitelyTyped" type="javaScript">
       <properties>
         <option name="frameworkName" value="Knockout" />
       </properties>
       <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_lodash.js_4.17.11_lodash.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_lodash.js_4.17.11_lodash.js" />
+      </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
@@ -339,6 +509,30 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.24.0_moment.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.24.0_moment.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="nanomodal" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_nanomodal@5.1.1_nanomodal.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_nanomodal@5.1.1_nanomodal.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="password" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -367,6 +561,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_gatorlib-js.jmurphy.hgsell.com_3rdParty_google.libphonenumber_phoneFormat.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_localhost:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_negan.dev:3000_gatorlib-js_public_3rdParty_google.libphonenumber_phoneFormat.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="popper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.7_umd_popper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.7_umd_popper.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
